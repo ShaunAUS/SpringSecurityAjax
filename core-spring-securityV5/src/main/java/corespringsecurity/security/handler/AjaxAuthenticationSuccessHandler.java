@@ -1,7 +1,7 @@
 package corespringsecurity.security.handler;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import corespringsecurity.domain.Account;
+import corespringsecurity.domain.dto.Account;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.security.core.Authentication;

@@ -1,7 +1,7 @@
 package corespringsecurity.controller.user;
 
-import corespringsecurity.domain.Account;
-import corespringsecurity.domain.AccountDTo;
+import corespringsecurity.domain.dto.Account;
+import corespringsecurity.domain.dto.AccountDTo;
 import corespringsecurity.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;

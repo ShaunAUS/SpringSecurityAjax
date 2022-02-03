@@ -1,6 +1,6 @@
 package corespringsecurity.security.service;
 
-import corespringsecurity.domain.Account;
+import corespringsecurity.domain.dto.Account;
 import corespringsecurity.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;

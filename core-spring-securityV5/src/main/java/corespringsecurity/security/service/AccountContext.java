@@ -1,6 +1,6 @@
 package corespringsecurity.security.service;
 
-import corespringsecurity.domain.Account;
+import corespringsecurity.domain.dto.Account;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.User;
 

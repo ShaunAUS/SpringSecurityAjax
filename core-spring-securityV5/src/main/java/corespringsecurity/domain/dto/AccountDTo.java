@@ -1,4 +1,4 @@
-package corespringsecurity.domain;
+package corespringsecurity.domain.dto;
 
 import lombok.Data;
 
